@@ -1,6 +1,0 @@
-{
-  "name": "CSEGuide",
-  "description": "A high-fidelity personal UPSC CSE Smart Reader and learning companion designed for scholars.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
